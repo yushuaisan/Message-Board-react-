@@ -12,8 +12,7 @@ const App = ({ children, location }) => (
     <Navbar location={location} />
   
     <div className="container">
-      {/* 相当于 Vue Demo 中的根 router-view */}
-      { children }
+       { children }
     </div>
 
     { DevTools && <DevTools /> }
