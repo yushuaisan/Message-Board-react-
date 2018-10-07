@@ -1,7 +1,7 @@
 {
   "name": "react-demo",
   "description": "A Simple Message Board Demo developed by React",
-  "author": "Ken Berkeley <kenberkeley@foxmail.com>",
+  "author": "Shuaisan Yu <yushuaisanryan@gmail.com>",
   "version": "0.1.0",
   "scripts": {
     "start": "cross-env NODE_ENV=development node build/dev.js",
